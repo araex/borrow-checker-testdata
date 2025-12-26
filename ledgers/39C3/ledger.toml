@@ -1,2 +1,4 @@
+# UUIDv4
+id = "10cc6659-531e-4c8f-881f-1bf6b24abbc0"
 display_name = "39C3"
-paricipant_ids = [1, 2, 3]
+participants = ["c8744a29-7ed0-447a-af5a-51e4ad291d1d", "3abaaf40-a35a-488d-8ef2-0184c8c5f3c3", "92c0a0fc-aa86-4922-ab1f-7b9326720177"]

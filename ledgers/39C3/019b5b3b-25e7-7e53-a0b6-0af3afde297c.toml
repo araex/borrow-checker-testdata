@@ -1,17 +1,17 @@
 description = "🎫🍖🏰"
-paid_by_entity = 2
+paid_by_entity = "3abaaf40-a35a-488d-8ef2-0184c8c5f3c3"
 currency_iso_4217 = "CHF"
 amount = 220.0
-transaction_date = "2025-11-17T14:42Z"
+transaction_datetime_rfc_3339 = "2025-11-17T14:42Z"
 
 [[split_ratios]]
-entity_id = 1
+entity_id = "c8744a29-7ed0-447a-af5a-51e4ad291d1d"
 ratio = "1/3"
 
 [[split_ratios]]
-entity_id = 2
+entity_id = "3abaaf40-a35a-488d-8ef2-0184c8c5f3c3"
 ratio = "1/3"
 
 [[split_ratios]]
-entity_id = 3
+entity_id = "92c0a0fc-aa86-4922-ab1f-7b9326720177"
 ratio = "1/3"
