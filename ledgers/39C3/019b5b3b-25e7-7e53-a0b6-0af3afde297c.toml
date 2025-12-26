@@ -2,6 +2,7 @@ description = "🎫🍖🏰"
 paid_by_entity = 2
 currency_iso_4217 = "CHF"
 amount = 220.0
+transaction_date = "2025-11-17T14:42Z"
 
 [[split_ratio]]
 entity_id = 1
