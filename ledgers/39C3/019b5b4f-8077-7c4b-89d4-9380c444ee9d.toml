@@ -2,8 +2,8 @@ id = "019b5b4f-8077-7c4b-89d4-9380c444ee9d"
 description = "🛫"
 paid_by_entity = "3abaaf40-a35a-488d-8ef2-0184c8c5f3c3"
 currency_iso_4217 = "CHF"
-amount = 598.80
-transaction_datetime_rfc_3339 = 2025-11-17 14:43:02Z
+amount = 598.83
+transaction_datetime_rfc_3339 = 2025-11-17T14:43:00
 
 [[split_ratios]]
 entity_id = "c8744a29-7ed0-447a-af5a-51e4ad291d1d"
