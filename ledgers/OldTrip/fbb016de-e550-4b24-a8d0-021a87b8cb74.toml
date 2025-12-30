@@ -2,7 +2,7 @@ id = "fbb016de-e550-4b24-a8d0-021a87b8cb74"
 description = "hard split !"
 paid_by_entity = "3abaaf40-a35a-488d-8ef2-0184c8c5f3c3"
 currency_iso_4217 = "JPY"
-amount = 4400.0
+amount = 44.0
 transaction_datetime_rfc_3339 = 2025-12-30T11:07:00
 
 [[split_ratios]]
