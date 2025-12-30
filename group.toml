@@ -1,14 +1,13 @@
+primary_currency = "CHF"
+
 [[entities]]
-# UUIDv4
 id = "c8744a29-7ed0-447a-af5a-51e4ad291d1d"
 display_name = "Araex"
 
 [[entities]]
-# UUIDv4
 id = "3abaaf40-a35a-488d-8ef2-0184c8c5f3c3"
 display_name = "Wüstenschiff"
 
 [[entities]]
-# UUIDv4
 id = "92c0a0fc-aa86-4922-ab1f-7b9326720177"
 display_name = "flakmonkey"
