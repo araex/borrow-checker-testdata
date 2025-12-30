@@ -1,0 +1,30 @@
+id = "28b547f2-9f39-4aa8-81b3-811ea7ced480"
+description = "4"
+paid_by_entity = "c8744a29-7ed0-447a-af5a-51e4ad291d1d"
+currency_iso_4217 = "USD"
+amount = 123.0
+transaction_datetime_rfc_3339 = 2025-12-30T12:32:00
+
+[[split_ratios]]
+entity_id = "c8744a29-7ed0-447a-af5a-51e4ad291d1d"
+ratio = "1/3"
+
+[split_ratios.split_type]
+Ratio = "1/3"
+
+[[split_ratios]]
+entity_id = "3abaaf40-a35a-488d-8ef2-0184c8c5f3c3"
+ratio = "1/3"
+
+[split_ratios.split_type]
+Ratio = "1/3"
+
+[[split_ratios]]
+entity_id = "92c0a0fc-aa86-4922-ab1f-7b9326720177"
+ratio = "1/3"
+
+[split_ratios.split_type]
+Ratio = "1/3"
+
+[exchange_rates]
+CHF = 0.78982
