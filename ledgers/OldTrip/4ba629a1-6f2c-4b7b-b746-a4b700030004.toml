@@ -1,0 +1,15 @@
+id = "4ba629a1-6f2c-4b7b-b746-a4b700030004"
+description = "Settle"
+paid_by_entity = "92c0a0fc-aa86-4922-ab1f-7b9326720177"
+currency_iso_4217 = "CHF"
+amount = 917.5
+transaction_datetime_rfc_3339 = 2025-12-30T12:44:00
+
+[[split_ratios]]
+entity_id = "3abaaf40-a35a-488d-8ef2-0184c8c5f3c3"
+ratio = "1/1"
+
+[split_ratios.split_type]
+Ratio = "1/1"
+
+[exchange_rates]
