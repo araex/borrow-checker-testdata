@@ -1,0 +1,27 @@
+id = "fbb016de-e550-4b24-a8d0-021a87b8cb74"
+description = "hard split"
+paid_by_entity = "3abaaf40-a35a-488d-8ef2-0184c8c5f3c3"
+currency_iso_4217 = "JPY"
+amount = 42.0
+transaction_datetime_rfc_3339 = 2025-12-30T11:07:00
+
+[[split_ratios]]
+entity_id = "c8744a29-7ed0-447a-af5a-51e4ad291d1d"
+ratio = "7/13"
+
+[split_ratios.split_type]
+Ratio = "7/13"
+
+[[split_ratios]]
+entity_id = "3abaaf40-a35a-488d-8ef2-0184c8c5f3c3"
+ratio = "5/9"
+
+[split_ratios.split_type]
+Ratio = "5/9"
+
+[[split_ratios]]
+entity_id = "92c0a0fc-aa86-4922-ab1f-7b9326720177"
+ratio = "1/39"
+
+[split_ratios.split_type]
+Ratio = "1/39"
