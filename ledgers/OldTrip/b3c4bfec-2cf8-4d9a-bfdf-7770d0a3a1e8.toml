@@ -2,7 +2,7 @@ id = "b3c4bfec-2cf8-4d9a-bfdf-7770d0a3a1e8"
 description = "sdfa"
 paid_by_entity = "3abaaf40-a35a-488d-8ef2-0184c8c5f3c3"
 currency_iso_4217 = "USD"
-amount = 222.0
+amount = 221.0
 transaction_datetime_rfc_3339 = 2025-12-30T11:32:00
 
 [[split_ratios]]
